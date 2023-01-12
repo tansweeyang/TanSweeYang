@@ -6,7 +6,7 @@ I am looking to start my career as a machine learning engineer.</p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=omni&mode=weekly&background=000000&border=FFFFFF&ring=DD0000&dates=DDDDDD&stroke=DD2727&currStreakNum=DDDDDD&currStreakLabel=DD2727&sideNums=DDDDDD&sideLabels=DDDDDD&fire=FFF925)](https://git.io/streak-stats)
 <p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&show_icons=true&theme=dark) <p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansweeyang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
