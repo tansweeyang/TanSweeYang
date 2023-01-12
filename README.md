@@ -1,5 +1,5 @@
-# ⌛Tan Swee Yang
-``Software Engineer Student at Universiti Tunku Abdul Rahman in Malaysia``
+# 👩‍💻 Tan Swee Yang
+``Software Engineer Student at Universiti Tunku Abdul Rahman in Malaysia (Artificial Intelligence, Backend Development)``
 
 **tansweeyang/TanSweeYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
