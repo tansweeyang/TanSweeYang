@@ -28,5 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansweeyang)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-<h4 align="center"><samp> Check out my repos below</samp></h4>
-<h4 align="center"><samp> ↯</samp></h4>
+<h4 align="center"><samp> Check out my repositories below</samp></h4>
+<h4 align="center"><samp>↯</samp></h4>
