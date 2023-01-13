@@ -4,6 +4,9 @@
 <p align="left"><font color="blue" face="Comic Sans" size="+2">Hi there! I'm a Software Engineer student from Malaysia. I am interested in Artificial Intelligence and Backend Development. Check out my repos.</font></p>
 </body>
 
+[![Linkedin: TanSweeYang](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tansweeyang/)](https://www.linkedin.com/in/tansweeyang/)
+[![GitHub TanSweeYang](https://img.shields.io/github/followers/tansweeyang?label=follow&style=social)](https://github.com/gkhan205)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=omni&mode=weekly&background=000000&border=FFFFFF&ring=DD0000&dates=DDDDDD&stroke=DD2727&currStreakNum=DDDDDD&currStreakLabel=DD2727&sideNums=DDDDDD&sideLabels=DDDDDD&fire=FFF925)](https://git.io/streak-stats)
       
 <p align="left">
