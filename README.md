@@ -1,21 +1,13 @@
-# Tan Swee Yang
+# Home
+<h4 align="center"><samp> A motivated Software Engineer major with a passion for machine learning, deep learning and backend development. Awarded Academic Improvement List. Proficient in Java, Python and C++.</samp></h4>
 
-<body>
-<p align="left"><font color="blue" face="Comic Sans" size="+2">Hi there! I'm a Software Engineer student from Malaysia. I am interested in Artificial Intelligence and Backend Development. Check out my repos.</font></p>
-</body>
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
-[![Linkedin: TanSweeYang](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tansweeyang/)](https://www.linkedin.com/in/tansweeyang/)
-[![GitHub TanSweeYang](https://img.shields.io/github/followers/tansweeyang?label=follow&style=social)](https://github.com/gkhan205)
+# My Socials
+[![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=java-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=omni&mode=weekly&background=000000&border=FFFFFF&ring=DD0000&dates=DDDDDD&stroke=DD2727&currStreakNum=DDDDDD&currStreakLabel=DD2727&sideNums=DDDDDD&sideLabels=DDDDDD&fire=FFF925)](https://git.io/streak-stats)
-      
-<p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tansweeyang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/tansweeyang?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tansweeyang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
-  
 # Languages and Tools
 <img align="left" alt="Java" width="30px" src="https://camo.githubusercontent.com/20ffa1c9a31e2c991c8b52b0cb7be938de51db4b7a9299658fef28efb0cc845a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
 
