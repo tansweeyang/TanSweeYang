@@ -18,7 +18,7 @@
 <p>
 
 <details close align="center">
-<summary>My Github Status</summary>
+<summary>My GitHub Status</summary>
 <br>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=java-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
