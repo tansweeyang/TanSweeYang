@@ -17,7 +17,7 @@
 
 <p>
 
-<details open align="center">
+<details close align="center">
 <summary>My Github Status</summary>
 <br>
   
