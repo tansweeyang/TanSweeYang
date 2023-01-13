@@ -1,16 +1,14 @@
-# 🧑‍💻Tan Swee Yang
+# Tan swee Yang
 
-<p>Hi there! I am a Software Engineer Student at Universiti Tunku Abdul Rahman in Malaysia. My work primarily involves Java, Python and C#. 
-I am looking to start my career as a machine learning engineer.</p>
+<body>
+<p align="left"><font color="blue" face="Comic Sans" size="+2">Hi there! I'm a Software Engineer student from Malaysia. I am interested in Artificial Intelligence and Backend Development. Check out my repos.</font></p>
+</body>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=omni&mode=weekly&background=000000&border=FFFFFF&ring=DD0000&dates=DDDDDD&stroke=DD2727&currStreakNum=DDDDDD&currStreakLabel=DD2727&sideNums=DDDDDD&sideLabels=DDDDDD&fire=FFF925)](https://git.io/streak-stats)
-<p>
-
+      
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-      <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tansweeyang?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/tansweeyang?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tansweeyang?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
