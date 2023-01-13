@@ -1,5 +1,5 @@
 # Home
-<h4 align="center"><samp> A motivated Software Engineer major with a passion for machine learning, deep learning and backend development. Awarded Academic Improvement List. Proficient in Java, Python and C++.</samp></h4>
+<h4 align="center"><samp> A motivated Software Engineer major with a passion for machine learning, deep learning and backend development. Awarded Academic Improvement List. Proficient in Java, Python and C#.</samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
