@@ -1,4 +1,4 @@
-# Tan swee Yang
+# Tan Swee Yang
 
 <body>
 <p align="left"><font color="blue" face="Comic Sans" size="+2">Hi there! I'm a Software Engineer student from Malaysia. I am interested in Artificial Intelligence and Backend Development. Check out my repos.</font></p>
