@@ -25,6 +25,14 @@
 </details>
 
 <details close align="center">
+<summary><samp>Top Languages</samp></summary>
+<br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansweeyang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
+
+<details close align="center">
 <summary><samp>Featured Projects</samp></summary>
 <br>
 
