@@ -17,7 +17,7 @@
 <p>
   
 <details close align="center">
-<summary><samp>My GitHub Status</samp></summary>
+<summary><samp>My GitHub Stats</samp></summary>
 <br>
 
 ![tansweeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&count_private=true&theme=dark&show_icons=true)
@@ -38,6 +38,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=dark)](https://github.com/tansweeyang/im-not-a-robot)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Traveling-Salesman-Problem-Using-Genetic-Algorithm&theme=dark)](https://github.com/tansweeyang/Traveling-Salesman-Problem-Using-Genetic-Algorithm)
+  
 </details>
 
 <h4 align="center"><samp> Check out my repositories below</samp></h4>
