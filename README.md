@@ -17,7 +17,7 @@
 <p>
   
 <details close align="center">
-<summary><samp>My GitHub Stats</samp></summary>
+<summary><samp>GitHub Stats</samp></summary>
 <br>
 
 ![tansweeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&count_private=true&theme=dark&show_icons=true)
