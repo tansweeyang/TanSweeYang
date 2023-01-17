@@ -40,6 +40,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Traveling-Salesman-Problem-Using-Genetic-Algorithm&theme=dark)](https://github.com/tansweeyang/Traveling-Salesman-Problem-Using-Genetic-Algorithm)
   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Invasion&theme=dark)](https://github.com/tansweeyang/Invasion)
+  
 </details>
 
 <h4 align="center"><samp> Check out my repositories below</samp></h4>
