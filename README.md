@@ -20,8 +20,8 @@
 <summary><samp>My GitHub Status</samp></summary>
 <br>
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tansweeyang&theme=java-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![tansweeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&count_private=true&theme=dark&show_icons=true)
+tats)
 
 <p>
   
