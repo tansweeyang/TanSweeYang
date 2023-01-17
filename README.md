@@ -35,7 +35,7 @@
 <summary><samp>Featured Projects</samp></summary>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=java-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=java-dark)](https://github.com/tansweeyang/im-not-a-robot)
 
 </details>
 
