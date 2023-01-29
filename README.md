@@ -20,7 +20,7 @@
 <summary><samp>GitHub Stats</samp></summary>
 <br>
 
-![tansweeyang's GitHub stats](https://github-readme-stats-liart-one-66.vercel.app/api?username=tansweeyang&count_private=true&theme=dark&show_icons=true)
+![tansweeyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansweeyang&count_private=true&theme=dark&show_icons=true)
     
 </details>
 
@@ -28,7 +28,7 @@
 <summary><samp>Top Languages</samp></summary>
 <br>
   
-[![Top Langs](https://github-readme-stats-liart-one-66.vercel.app/api/top-langs/?username=tansweeyang&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tansweeyang&show_icons=true&locale=en&layout=compact)](https://github.com/tansweeyang/github-readme-stats)
   
 </details>
 
@@ -36,11 +36,11 @@
 <summary><samp>Featured Projects</samp></summary>
 <br>
 
-[![Readme Card](https://github-readme-stats-liart-one-66.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=dark)](https://github.com/tansweeyang/im-not-a-robot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=dark)](https://github.com/tansweeyang/im-not-a-robot)
 
-[![Readme Card](https://github-readme-stats-liart-one-66.vercel.app/api/pin/?username=tansweeyang&repo=Traveling-Salesman-Problem-Using-Genetic-Algorithm&theme=dark)](https://github.com/tansweeyang/Traveling-Salesman-Problem-Using-Genetic-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Traveling-Salesman-Problem-Using-Genetic-Algorithm&theme=dark)](https://github.com/tansweeyang/Traveling-Salesman-Problem-Using-Genetic-Algorithm)
   
-[![Readme Card](https://github-readme-stats-liart-one-66.vercel.app/api/pin/?username=tansweeyang&repo=Invasion&theme=dark)](https://github.com/tansweeyang/Invasion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Invasion&theme=dark)](https://github.com/tansweeyang/Invasion)
   
 </details>
 
