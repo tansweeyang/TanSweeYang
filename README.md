@@ -5,7 +5,7 @@
   <img align="left" alt="TanSweeYang's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tansweeyang)
+![](https://visitor-badge.glitch.me/badge?page_id=tansweeyang.tansweeyang)
 
 <h4 align="center"><samp> [Tan Swee Yang]</samp></h4>
 <h4 align="center"><samp> A motivated software engineering major with a passion for machine learning and backend development. Awarded Academic Improvement List. Proficient in Java, Python and C#.</samp></h4>
