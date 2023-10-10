@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/tansweeyang/">
-  <img align="left" alt="TanSweeYang's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="TanSweeYang's LinkedIn" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](http://www.w3.org/2000/svg)" />
 </a>
 <a href="mailto:tansweeyang.softwareengineer@gmail.com">
   <img align="left" alt="TanSweeYang's Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
