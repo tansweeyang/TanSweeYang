@@ -36,7 +36,7 @@
 <summary><samp>Featured Projects</samp></summary>
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=dark)](https://github.com/tansweeyang/Human-in-the-loop-Reinforcement-Learning-for-Emotion-Recognition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=Human-in-the-loop-Reinforcement-Learning-for-Emotion-Recognition&theme=dark)](https://github.com/tansweeyang/Human-in-the-loop-Reinforcement-Learning-for-Emotion-Recognition)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tansweeyang&repo=im-not-a-robot&theme=dark)](https://github.com/tansweeyang/im-not-a-robot)
   
